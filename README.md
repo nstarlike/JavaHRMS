@@ -1,10 +1,11 @@
 # HumanResourceManagementSystem
 
 ## Features
+- Employee Recruitment and Hiring
 - Employee Management
-- Recruitment Management
-- Payroll Management
 - Attendance Management
+- Performance Management
+- Payroll Management
 
 ## Technologies
 - Maven 3.8.7
