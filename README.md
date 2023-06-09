@@ -1,5 +1,11 @@
 # HumanResourceManagementSystem
 
+## Features
+- Employee Management
+- Recruitment Management
+- Payroll Management
+- Attendance Management
+
 ## Frameworks
 - Maven 3.8.7
 - Spring Boot 3.1.0
