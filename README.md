@@ -1,4 +1,4 @@
-# HumanResourceManagementSystem
+# Java Human Resource Management Solution
 
 ## Features
 - Employee Recruitment and Hiring (Implementing...)
